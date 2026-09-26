@@ -1,0 +1,20 @@
+{
+  "model": "medium",
+  "language": "zh",
+  "device": "auto",
+  "cpu_compute_type": "int8",
+  "gpu_compute_type": "float16",
+  "beam_size": 5,
+  "vad_filter": true,
+  "local_only": true,
+  "model_cache_dir": "../models/faster-whisper",
+  "obsidian_output_dir": "D:\\Obsidian\\仓库\\牛の牛の牛\\资料库\\项目\\微信关系分析",
+  "analysis_backend": "local",
+  "local_llm_runtime": "D:\\Codexxxx\\WeChat-Relationship-Analyzer\\runtime\\llama.cpp\\llama-cli.exe",
+  "local_llm_model": "D:\\Codexxxx\\models\\relationship-analysis\\Qwen3-4B-Instruct-2507-Q4_K_M.gguf",
+  "analysis_context": 32768,
+  "analysis_max_tokens": 4096,
+  "analysis_threads": 10,
+  "analysis_temperature": 0.35,
+  "analysis_evidence_max_chars": 24000
+}

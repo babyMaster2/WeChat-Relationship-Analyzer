@@ -1,0 +1,5 @@
+interface:
+  display_name: "关系聊天证据分析"
+  short_description: "基于完整聊天证据分析关系阶段与互动模式"
+  default_prompt: "请分析这份双人聊天时间线，逐项引用证据，并区分事实、高可信推断、可能解释和无法判断。"
+

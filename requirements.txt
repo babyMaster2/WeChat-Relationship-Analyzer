@@ -1,0 +1,4 @@
+faster-whisper>=1.1,<2
+httpx>=0.28,<1
+pilk-nogil>=0.4,<1
+wechatauto-replica>=1.2.4,<2
